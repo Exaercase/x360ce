@@ -287,3 +287,4 @@ This is the new system utilised by r574+
 > You can report compatible games or games that have issues in 2 ways
   1. Through the Issue tracker - include 'Game Compatibility' in the Issue Title
   1. Via a thread in [this board at EmuForums](http://forums.ngemu.com/forumdisplay.php?f=140)
+  
